@@ -1,7 +1,4 @@
 """
-Name: Jose Martinez
-Class: CS 521 - 2020 Spring 1
-Date: 9 February 2020
 Homework Problem # 4.1
 Description: Solve for the following quadratic formula ax**2 + bx + c = 0
 """
